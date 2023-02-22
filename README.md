@@ -1,2 +1,2 @@
 # prep-course-henry
-repositorio de pueba del bootcamp
+prueba de como crear unrepositorio y clonarlo en mi computadora
